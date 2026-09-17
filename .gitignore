@@ -29,7 +29,6 @@ out/
 config/
 
 **/templates/apiService/**
-**/templates/layout/layout3.html
 **/dist/api/**
 
 application.yml
