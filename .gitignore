@@ -31,7 +31,6 @@ config/
 **/templates/apiService/**
 **/templates/layout/layout3.html
 **/dist/api/**
-
 **/templates/layout/footer.html
 **/templates/layout/template.html
 
